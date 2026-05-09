@@ -87,7 +87,7 @@ Key outcomes:
 Clone the repository:
 
 ```bash
-git clone https://github.com/Pk224/multimodal-ocr-classification.git
+git clone https://github.com/ParthKohale/multimodal-ocr-classification.git
 ```
 
 Install dependencies:
